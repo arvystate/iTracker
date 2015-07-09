@@ -15,8 +15,16 @@ Technologies: **HTML**, **CSS**, **PHP**, **SQL**, **Google Maps**
 
 # Screenshots
 
+### Latest location
+
 ![iTracker](https://raw.githubusercontent.com/arvystate/iTracker/master/Resources/iTracker_1.png)
+
+### Entire logged path
+
 ![iTracker](https://raw.githubusercontent.com/arvystate/iTracker/master/Resources/iTracker_2.png)
+
+### Fullscreen mode
+
 ![iTracker](https://raw.githubusercontent.com/arvystate/iTracker/master/Resources/iTracker_3.png)
 
 # License
