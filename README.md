@@ -7,6 +7,16 @@ Platform: **HTML** server with installed **PHP** engine and **MySQL** database
 
 Technologies: **HTML**, **CSS**, **PHP**, **SQL**, **Google Maps**
 
+# Installation
+
+1. Upload files to your web host
+2. Import database from `itracker.sql`
+3. Edit `index.php` and enter **database access** information and **Google Maps API Key**.
+
+# Screenshots
+
+
+
 # License
 
 **iTracker** is available under the **GPL** license. See [LICENSE](https://github.com/arvystate/iTracker/blob/master/LICENSE) file for more information.
