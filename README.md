@@ -4,6 +4,7 @@ A small webpage to display location data sent by mobile devices on a map. The ap
 
 # Details
 Platform: **HTML** server with installed **PHP** engine and **MySQL** database
+
 Technologies: **HTML**, **CSS**, **PHP**, **SQL**, **Google Maps**
 
 # License
